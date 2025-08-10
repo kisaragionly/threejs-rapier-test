@@ -3,4 +3,4 @@
 
 A mostly default react + vite setup + three.js + rapier
 
-![demo](demo.mp4)
+![demo-image](demo-image.png)
